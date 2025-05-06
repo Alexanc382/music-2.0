@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Inter18pt-SemiBold';
+    src: url('Inter18pt-SemiBold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter18pt-Regular';
+    src: url('Inter18pt-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter18pt-Medium';
+    src: url('Inter18pt-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -1,0 +1,24 @@
+https://www.figma.com/design/8ZrEujSb81Mhcy9UoFl4Ts/Untitled?node-id=0-1&p=f&t=V9fNcA5SqL7ZvNgP-0
+
+!Music app - Inter Semi Bold 20 98x30
+
+!Discover - Inter Semi Bold 16
+
+!Home - Inter Medium 16
+!Browse - Inter Medium 16
+!Radio - Inter Medium 16
+
+!Library - Inter Semi Bold 16
+
+!Playlists- Inter Medium 16
+!Songs - Inter Medium 16
+!Personalized picks - Inter Medium 16
+
+Tab - Inter Medium 16
+Title - Inter Semi Bold 34
+!Subheading - Inter Regular 16
+
+Playlist 1-4, Artist Name - Inter Medium 20
+!Description of playlist/Artist - Inter Regular 16
+
+Call to action - Inter Medium 16
