@@ -16,7 +16,7 @@ body {
   padding-top: 20px;
 }
 
-#pic-nav {
+.pic-nav {
   width: 15px;
   height: 15px;
   margin-right: 10px;
@@ -47,6 +47,7 @@ a:hover {
 .row1, .row2, .row3 {
   display: flex;
   font-family: "Inter18pt-Medium";
+  font-size: 16px;
 }
 
 .content-main {
@@ -112,7 +113,7 @@ a:hover {
   font-family: "Inter18pt-SemiBold";
 }
 
-#title {
+.h1-title1 {
   font-size: 34px;
 }
 
@@ -136,6 +137,7 @@ p {
     padding: 0;
     margin: 0;
     justify-content: center;
+    gap: 1em;
   }
   .nav-bar {
     width: 20%;
@@ -143,17 +145,30 @@ p {
     padding: 10px;
   }
   #pic-nav {
-    width: 5px;
-    height: 5px;
+    width: 15px;
+    height: 15px;
   }
   .row1, .row2, .row3 {
     display: flex;
   }
   .block0 {
     margin-bottom: 5px;
+    font-size: 16px;
   }
   .row0 {
     margin-bottom: 5px;
     margin-top: 5px;
+  }
+  .row {
+    font-size: 13px;
+  }
+  .row3 {
+    font-size: 9px;
+  }
+  .title-content {
+    margin-bottom: 10px;
+  }
+  .title2 {
+    margin-top: 20px;
   }
 }/*# sourceMappingURL=main-page.css.map */
