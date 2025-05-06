@@ -9,7 +9,6 @@ body {
 }
 
 .nav-bar {
-  background-color: aqua;
   display: flex;
   flex-direction: column;
   width: 10vw;
@@ -17,8 +16,37 @@ body {
   padding-top: 20px;
 }
 
+#pic-nav {
+  width: 15px;
+  height: 15px;
+  margin-right: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: brown;
+}
+
+.block0 {
+  font-size: 20px;
+  font-family: "Inter18pt-SemiBold";
+}
+
+.row {
+  font-size: 16px;
+}
+
+.row0 {
+  font-family: "Inter18pt-SemiBold";
+}
+
 .row1, .row2, .row3 {
   display: flex;
+  font-family: "Inter18pt-Medium";
 }
 
 .content-main {
@@ -35,13 +63,11 @@ body {
 
 .content-head {
   display: flex;
-  /*border: $border-line red;*/
   justify-content: space-between;
 }
 
 .tab-all {
   display: flex;
-  /*border: $border-line rgb(0, 89, 255);*/
   width: 150px;
   height: 40px;
   align-items: center;
@@ -50,30 +76,31 @@ body {
 
 .tab {
   background-color: #F7F7F7;
-  /*border: $border-line rgb(43, 255, 0);*/
   width: 80%;
   height: 80%;
   text-align: center;
   box-sizing: border-box;
   padding-top: 4%;
+  font-family: "Inter18pt-Medium";
 }
 
 .tab1 {
   background-color: white;
-  /*border: $border-line rgba(134, 8, 50, 0.541);*/
   border-radius: 10%;
 }
 
-.b-1 {
+.botton-1 {
   border-radius: 10%;
   background-color: black;
   color: white;
+  padding: 1px;
+  margin: 2px;
+  box-sizing: border-box;
+  font-family: "Inter18pt-Medium";
 }
 
 .content {
-  background-color: rgb(19, 179, 179);
   display: flex;
-  border: 1px solid red;
   width: 100%;
   justify-content: space-between;
   padding: 20px;
@@ -81,8 +108,22 @@ body {
 }
 
 .title-content {
-  background-color: rgb(247, 15, 247);
   align-self: flex-start;
+  font-family: "Inter18pt-SemiBold";
+}
+
+#title {
+  font-size: 34px;
+}
+
+p {
+  font-family: "Inter18pt-Regular";
+  font-size: 16px;
+}
+
+.IM20 {
+  font-family: "Inter18pt-Medium";
+  font-size: 20px;
 }
 
 @media (max-width: 1080px) {
